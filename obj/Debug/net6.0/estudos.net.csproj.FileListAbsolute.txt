@@ -1,0 +1,15 @@
+C:\estudos.net\bin\Debug\net6.0\estudos.net.exe
+C:\estudos.net\bin\Debug\net6.0\estudos.net.deps.json
+C:\estudos.net\bin\Debug\net6.0\estudos.net.runtimeconfig.json
+C:\estudos.net\bin\Debug\net6.0\estudos.net.dll
+C:\estudos.net\bin\Debug\net6.0\estudos.net.pdb
+C:\estudos.net\obj\Debug\net6.0\estudos.net.csproj.AssemblyReference.cache
+C:\estudos.net\obj\Debug\net6.0\estudos.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos.net\obj\Debug\net6.0\estudos.net.AssemblyInfoInputs.cache
+C:\estudos.net\obj\Debug\net6.0\estudos.net.AssemblyInfo.cs
+C:\estudos.net\obj\Debug\net6.0\estudos.net.csproj.CoreCompileInputs.cache
+C:\estudos.net\obj\Debug\net6.0\estudos.net.dll
+C:\estudos.net\obj\Debug\net6.0\refint\estudos.net.dll
+C:\estudos.net\obj\Debug\net6.0\estudos.net.pdb
+C:\estudos.net\obj\Debug\net6.0\estudos.net.genruntimeconfig.cache
+C:\estudos.net\obj\Debug\net6.0\ref\estudos.net.dll
